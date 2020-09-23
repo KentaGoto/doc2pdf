@@ -27,3 +27,6 @@ Enter to exit.
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
